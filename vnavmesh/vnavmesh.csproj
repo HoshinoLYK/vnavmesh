@@ -3,10 +3,10 @@
   <PropertyGroup>
     <Authors></Authors>
     <Company></Company>
-    <Version>0.0.0.0</Version>
-    <Description>Move around!</Description>
+    <Version>0.1.9.0</Version>
+    <Description>行遍千里！</Description>
     <Copyright></Copyright>
-    <PackageProjectUrl>https://github.com/awgil/ffxiv_navmesh</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/HoshinoCorp/vnavmesh</PackageProjectUrl>
   </PropertyGroup>
 
   <PropertyGroup>
